@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pernudo
-- 👀 I’m interested in full stack devotement.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning Apache Kafka.
 - 💞️ I’m looking to collaborate on any project that I find interesting.
 <!---
